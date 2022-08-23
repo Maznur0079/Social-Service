@@ -10,6 +10,12 @@ h1 {
 h2 {
     font-size: 40px;
     font-weight: 700;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 700;
 }
 
 h4 {
@@ -106,4 +112,39 @@ html {
 
 .other-amount-flex-box {
     text-align: center;
+}
+
+.donate-plan {
+    padding-top: 65px;
+    padding-bottom: 30px;
+}
+
+.Donate-plan {
+    display: flex;
+
+
+}
+
+.food {
+    padding: 15px;
+    background-color: rgb(224, 243, 236);
+    margin: 6px;
+    border-radius: 5px;
+
+
+
+}
+
+.shelter {
+    padding: 15px;
+    background-color: rgb(231, 224, 231);
+    margin: 6px;
+    border-radius: 5px;
+}
+
+.madicine {
+    padding: 15px;
+    background-color: rgb(208, 236, 214);
+    margin: 6px;
+    border-radius: 5px;
 }
