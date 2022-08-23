@@ -167,3 +167,26 @@ html {
     padding-left: 60px;
     padding-right: 30px;
 }
+
+#updates {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+div {
+    text-align: center;
+}
+
+
+.input {
+    background-color: rgb(252, 210, 210);
+    padding: 10px;
+    margin: 200px;
+
+}
+
+footer {
+    font-family: fantasy;
+    text-align: center;
+    color: coral;
+}
