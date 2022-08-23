@@ -117,6 +117,7 @@ html {
 .donate-plan {
     padding-top: 65px;
     padding-bottom: 30px;
+
 }
 
 .Donate-plan {
@@ -147,4 +148,17 @@ html {
     background-color: rgb(208, 236, 214);
     margin: 6px;
     border-radius: 5px;
+}
+
+.depend-donation {
+    display: flex;
+    width: 50%;
+}
+
+.lives {
+    padding: 150px 60px;
+}
+
+.depend {
+    padding-right: 50px;
 }
