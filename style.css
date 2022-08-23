@@ -4,6 +4,18 @@ body {
 
 h1 {
     font-size: 50px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+h4 {
+    color: grey;
+    text-align: center;
+    font-weight: 200;
 }
 
 .Donate-button {
@@ -14,15 +26,13 @@ h1 {
     color: beige;
     padding: 15px 8px;
     border-radius: 5px;
-
 }
 
 body,
 html {
     height: 100%;
+    margin: 5px;
 }
-
-
 
 .bg-image {
     background-image: url(images/donation3.jpg);
@@ -53,4 +63,47 @@ html {
 #color-change {
     color: black;
     font-weight: 800;
+}
+
+.width {
+    color: gray;
+    display: flex;
+
+    padding-left: 25%;
+    padding-right: 15%;
+}
+
+.one {
+    padding: 15px 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(201, 190, 190);
+    border-radius: 5px;
+}
+
+#two-hundred {
+    padding: 15px 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(230, 62, 245);
+    color: beige;
+    border-radius: 5px;
+    border: 3px;
+}
+
+.Flex-box {
+    display: flexbox;
+}
+
+#gray {
+    color: gray;
+    font-weight: 400;
+}
+
+.color-add {
+    text-align: center;
+}
+
+.other-amount-flex-box {
+    text-align: center;
 }
